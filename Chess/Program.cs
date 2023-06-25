@@ -20,9 +20,5 @@ class Program
         engine.BuildCommands(moves_path);
 
         engine.MovePieces();
-
-        //var a = Math.Abs('a' - 'c');
-
-        //Console.WriteLine(a);
     }
 }
