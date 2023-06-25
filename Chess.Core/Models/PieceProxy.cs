@@ -15,5 +15,10 @@
 
         public string ProxyMovement => ProxyPiece.PieceMovement;
 
+        public void UpdatePosition()
+        {
+            ProxyPiece.PiecePosition = ProxyPiece.PieceMovement;
+        }
+
     }
 }

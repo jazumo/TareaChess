@@ -1,0 +1,11 @@
+Pa2-a3
+Pa7-a6
+Pa3-a4
+Pa6-a5
+Pa4-a5
+Ta1-a3
+Ta8-a6
+Cb1-c3
+Cb8-c6
+Cc3-e4
+Cc6-e5

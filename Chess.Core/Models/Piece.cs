@@ -7,5 +7,6 @@
         public string PiecePosition { get; set; }
 
         public string PieceMovement { get; set; }
+
     }
 }
